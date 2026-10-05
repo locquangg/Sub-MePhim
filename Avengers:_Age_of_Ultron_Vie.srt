@@ -1,9 +1,3 @@
-﻿1
-00:00:00,000 --> 00:00:25,000
-{\fad(1000,1000)}Phụ đề được lấy từ <font color="#3c7837"><i>Phụ Đề Việt</i></font>
-Biên dịch: <font color="#ebb134"><i>pikeman</i></font> - Biên tập: <font color="#7aded5"><i>Tony Nguyễn</i></font>
-Sync: <font color="#ae34eb"><i>first_alo</i></font>, <font color="#6293bb"><i>_BlackYuki_</i></font>
-
 2
 00:00:42,580 --> 00:00:44,720
 <i>Báo cáo tới tất cả các
