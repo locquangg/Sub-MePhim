@@ -1,8 +1,4 @@
-﻿1
-00:00:10,800 --> 00:00:20,800
-<b><font color="#ff9d12">Jm Gacho Subs</font></b>
-
-2
+﻿2
 00:00:42,800 --> 00:00:44,840
 <font face="Comic Sans MS" color="#fff17d"><b><i>Report
 to your stations immediately.</i></b></font>
